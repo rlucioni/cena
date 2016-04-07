@@ -1,3 +1,15 @@
 # cena
 
-AND HIS NAME IS JOHN CENA
+### Installation
+
+```
+pip install cena
+```
+
+### Usage
+
+```
+$ python
+...
+>>> import cena
+```
